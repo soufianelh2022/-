@@ -71,15 +71,15 @@
   },
   {
     "name": "Lion King Portrait",
-    "url": "https://avatars.mds.yandex.net/i?id=2a0000018d38110787b732b98b1dd9b28e43-1749611-fast-images&n=13",
-    "previewUrl": "https://avatars.mds.yandex.net/i?id=2a0000018d38110787b732b98b1dd9b28e43-1749611-fast-images&n=13",
+    "url": "https://stuki-druki.com/Foto/krasovskaya-slovo-pacana/2.webp",
+    "previewUrl": "https://stuki-druki.com/Foto/krasovskaya-slovo-pacana/2.webp",
     "categories": "Animal",
     "premium": false
   },
  
   {
     "name": "Fabric Flow Liquid",
-    "url": "https://cdn.sm.news/img/311/311247/1200.webp",
+    "url": "https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_65cbbf504ef96c6de34ae1c3_65ccc3b938a81f0cede2bb48/scale_1200",
     "previewUrl": "https://cdn.sm.news/img/311/311247/1200.webp",
     "categories": "Abstract, Amoled, Art, Design",
     "premium": false
